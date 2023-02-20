@@ -5,7 +5,7 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 ## Sections
 
-[ ] Stakeholder Questions 
+- [ ] Stakeholder Questions 
 
 [ ] Brief and specifications 
 
