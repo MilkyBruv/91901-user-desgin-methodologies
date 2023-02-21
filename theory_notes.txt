@@ -1,11 +1,68 @@
 Possible Things to Make:
 
-	vidmo gaem (dungeon crawler thing?, trolley knight init bruv)
+	dungeon crawler thing
+	trolley knight init bruv
 	chess but really cool liek super crazy
 	notes organizer thingy garbar bootleg trello
-	...
 
 
 UX Notes:
 
-	...
+	User/Stakeholder Questions:
+
+		Ask questions that give a broad idea of the product, then ask more in-depth questions that outline more specific aspects, then ask questions that give you a background of them and their persona, and their desired audience's persona.
+
+
+	Gut Test
+
+		Get lots of examples from different didgital products and ask the client to rate each example from 1 - 5; 1 meaning terrible and 5 meaning brilliant. Get a collection of at least 5 final designs / products that were rated 4+ to get a good idea of what the client desires.
+
+
+	Relevant Implications
+
+		Explain how your desgin addresses issues and problems, eg: legal, social, privacy, accessibility, future-proofing.
+
+
+	User Experience Study
+
+		Investigate the users and their persona when faced with certain problems. Understand how they react and their thinking patterns.
+
+
+	Feedback
+
+		Ask the client about the issues and don't suggest a solution. Getting the client's pure and uninfluenced point of view is cruicial to tailoring the design to their wants and needs. Make sure that the desgin you give them is up to a standard where it can be tested / reviewed efficiently with sufficient.
+
+
+	Competitive Analysis
+
+		Check when similar companies / products are doing and see what works for them and what doesn't work. Also excelling past their standards and building your own.
+
+
+	Card Sorting
+
+		.
+
+
+	Header
+
+		.
+
+
+	Header
+
+		.
+
+
+	Header
+
+		.
+
+
+	Header
+
+		.
+
+
+	Header
+
+		.
