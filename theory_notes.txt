@@ -40,7 +40,7 @@ UX Notes:
 
 	Card Sorting
 
-		.
+		Create cards (digital or physical) with different aspects and functions of your desgin / product. Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
 
 
 	Header
