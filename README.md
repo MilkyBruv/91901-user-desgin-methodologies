@@ -74,13 +74,13 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 ## Possible Things to Make:
 
-	- dungeon crawler thing
-	- trolley knight init bruv
-	- chess but really cool liek super crazy
-	- !!!notes organizer thingy garbar bootleg trello!!!☝️🤓👌👌👌this one please!
+- dungeon crawler thing
+- trolley knight init bruv
+- chess but really cool liek super crazy
+- !!!notes organizer thingy garbar bootleg trello!!!☝️🤓👌👌👌this one please!
 
 
-UX Notes:
+## UX Notes:
 
 - User/Stakeholder Questions:
 
