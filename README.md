@@ -82,61 +82,61 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 UX Notes:
 
-	- User/Stakeholder Questions:
+- User/Stakeholder Questions:
 
-		- Ask questions that give a broad idea of the product, then ask more in-depth questions that outline more specific aspects, then ask questions that give you a background of them and their persona, and their desired audience's persona.
-
-
-	- Gut Test
-
-		- Get lots of examples from different didgital products and ask the client to rate each example from 1 - 5; 1 meaning terrible and 5 meaning brilliant. Get a collection of at least 5 final designs / products that were rated 4+ to get a good idea of what the client desires.
+	- Ask questions that give a broad idea of the product, then ask more in-depth questions that outline more specific aspects, then ask questions that give you a background of them and their persona, and their desired audience's persona.
 
 
-	- Relevant Implications
+- Gut Test
 
-		- Explain how your desgin addresses issues and problems, eg: legal, social, privacy, accessibility, future-proofing.
-
-
-	- User Experience Study
-
-		- Investigate the users and their persona when faced with certain problems. Understand how they react and their thinking patterns.
+	- Get lots of examples from different didgital products and ask the client to rate each example from 1 - 5; 1 meaning terrible and 5 meaning brilliant. Get a collection of at least 5 final designs / products that were rated 4+ to get a good idea of what the client desires.
 
 
-	- Feedback
+- Relevant Implications
 
-		- Ask the client about the issues and don't suggest a solution. Getting the client's pure and uninfluenced point of view is cruicial to tailoring the design to their wants and needs. Make sure that the desgin you give them is up to a standard where it can be tested / reviewed efficiently with sufficient.
-
-
-	- Competitive Analysis
-
-		- Check when similar companies / products are doing and see what works for them and what doesn't work. Also excelling past their standards and building your own.
+	- Explain how your desgin addresses issues and problems, eg: legal, social, privacy, accessibility, future-proofing.
 
 
-	- Card Sorting
+- User Experience Study
 
-		- Create cards (digital or physical) with different aspects and functions of your desgin / product. Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
-
-
-	- User Persona
-
-		- A collection of information about a person, eg: name, age, location, education, relationship, hobbies, likes / dislikes, etc. Use this to tailor the website to a group of people with similar personas.
+	- Investigate the users and their persona when faced with certain problems. Understand how they react and their thinking patterns.
 
 
-	- Empathy Map
+- Feedback
 
-		- Get a list of feelings and thoughts from the testers and find patterns and common ideas between similar personas.
-
-
-	- Journey Map
-
-		- Create a map of the changes you make and the feedback you receive.
+	- Ask the client about the issues and don't suggest a solution. Getting the client's pure and uninfluenced point of view is cruicial to tailoring the design to their wants and needs. Make sure that the desgin you give them is up to a standard where it can be tested / reviewed efficiently with sufficient.
 
 
-	- Site map
+- Competitive Analysis
 
-		- Create a map of where different buttons and pages / scenes go to for an easy way to see the overall .
+	- Check when similar companies / products are doing and see what works for them and what doesn't work. Also excelling past their standards and building your own.
 
 
-	- Low Fidelity
+- Card Sorting
 
-		- A very simple mockup of what the design could look like to get feedback from the client that can easily be applied.
+	- Create cards (digital or physical) with different aspects and functions of your desgin / product. Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
+
+
+- User Persona
+
+	- A collection of information about a person, eg: name, age, location, education, relationship, hobbies, likes / dislikes, etc. Use this to tailor the website to a group of people with similar personas.
+
+
+- Empathy Map
+
+	- Get a list of feelings and thoughts from the testers and find patterns and common ideas between similar personas.
+
+
+- Journey Map
+
+	- Create a map of the changes you make and the feedback you receive.
+
+
+- Site map
+
+	- Create a map of where different buttons and pages / scenes go to for an easy way to see the overall .
+
+
+- Low Fidelity
+
+	- A very simple mockup of what the design could look like to get feedback from the client that can easily be applied.
