@@ -3,7 +3,7 @@ Possible Things to Make:
 	dungeon crawler thing
 	trolley knight init bruv
 	chess but really cool liek super crazy
-	notes organizer thingy garbar bootleg trello
+	!!!notes organizer thingy garbar bootleg trello!!!☝️🤓👌👌👌this one please!
 
 
 UX Notes:
@@ -43,26 +43,26 @@ UX Notes:
 		Create cards (digital or physical) with different aspects and functions of your desgin / product. Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
 
 
-	Header
+	User Persona
 
-		.
-
-
-	Header
-
-		.
+		A collection of information about a person, eg: name, age, location, education, relationship, hobbies, likes / dislikes, etc. Use this to tailor the website to a group of people with similar personas.
 
 
-	Header
+	Empathy Map
 
-		.
-
-
-	Header
-
-		.
+		Get a list of feelings and thoughts from the testers and find patterns and common ideas between similar personas.
 
 
-	Header
+	Journey Map
 
-		.
+		Create a map of the changes you make and the feedback you receive.
+
+
+	Site map
+
+		Create a map of where different buttons and pages / scenes go to for an easy way to see the overall .
+
+
+	Low Fidelity
+
+		A very simple mockup of what the design could look like to get feedback from the client that can easily be applied.
