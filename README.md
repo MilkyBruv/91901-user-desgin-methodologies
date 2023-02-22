@@ -140,3 +140,8 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 - Low Fidelity
 
 	- A very simple mockup of what the design could look like to get feedback from the client that can easily be applied.
+
+
+- High Fidelity
+
+	- A better quality
