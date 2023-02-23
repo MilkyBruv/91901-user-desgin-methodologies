@@ -89,7 +89,9 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - Gut Test
 
-	- Get lots of examples from different didgital products and ask the client to rate each example from 1 - 5; 1 meaning terrible and 5 meaning brilliant. Get a collection of at least 5 final designs / products that were rated 4+ to get a good idea of what the client desires.
+	- Get lots of examples from different didgital products and ask the client to rate each example from 1 - 5; 1 meaning terrible and 5 meaning brilliant.
+
+	- Get a collection of at least 5 final designs / products that were rated 4+ to get a good idea of what the client desires.
 
 
 - Relevant Implications
@@ -99,27 +101,39 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - User Experience Study
 
-	- Investigate the users and their persona when faced with certain problems. Understand how they react and their thinking patterns.
+	- Investigate the users and their persona when faced with certain problems.
+
+	- Understand how they react and their thinking patterns.
 
 
 - Feedback
 
-	- Ask the client about the issues and don't suggest a solution. Getting the client's pure and uninfluenced point of view is cruicial to tailoring the design to their wants and needs. Make sure that the desgin you give them is up to a standard where it can be tested / reviewed efficiently with sufficient.
+	- Ask the client about the issues and don't suggest a solution. Getting the client's pure and uninfluenced point of view is cruicial to tailoring the design to their wants and needs. 
+
+	- Make sure that the desgin you give them is up to a standard where it can be tested / reviewed efficiently with sufficient.
 
 
 - Competitive Analysis
 
-	- Check when similar companies / products are doing and see what works for them and what doesn't work. Also excelling past their standards and building your own.
+	- Check when similar companies / products are doing and see what works for them and what doesn't work. 
+
+	- Also excelling past their standards and building your own.
 
 
 - Card Sorting
 
-	- Create cards (digital or physical) with different aspects and functions of your desgin / product. Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
+	- Create cards (digital or physical) with different aspects and functions of your desgin / product. 
+
+	- Have groups groups setup groups and have the client and other testers organize the cards into where they think they should go / what the fit under. 
+
+	- Make sure the cards are shuffled and they do not contain a pattern that could change the mind of your testers.
 
 
 - User Persona
 
-	- A collection of information about a person, eg: name, age, location, education, relationship, hobbies, likes / dislikes, etc. Use this to tailor the website to a group of people with similar personas.
+	- A collection of information about a person, eg: name, age, location, education, relationship, hobbies, likes / dislikes, etc.
+
+	- Use this to tailor the website to a group of people with similar personas.
 
 
 - Empathy Map
@@ -144,4 +158,19 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - High Fidelity
 
-	- A better quality
+	- A higher quality layout mockup with more detail.
+
+
+- High Fidelity
+
+	- A full mockup of what the product will look like to show the client to get accurate feedback on.
+
+
+- Build and Test
+
+	- Create a minimal working version of the see if the interaction between the user and the product is as desired of the client.
+
+
+
+
+
