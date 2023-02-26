@@ -160,9 +160,6 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 	- A higher quality layout mockup with more detail.
 
-
-- High Fidelity
-
 	- A full mockup of what the product will look like to show the client to get accurate feedback on.
 
 
@@ -171,11 +168,3 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 	- Create a minimal working version of the see if the interaction between the user and the product is as desired of the client.
 
 	- Add or remove any features the client wants.
-
-
-- 
-
-
-
-
-
