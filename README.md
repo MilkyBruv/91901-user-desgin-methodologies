@@ -4,6 +4,67 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 ## Checklist
 
+### Marking Scheme
+
+|---|---|---|
+| A | M | E |
+|---|---|---|
+Apply user experience methodologies to develop a design for a digital technologies outcome. 
+
+  
+
+The student has: 
+
+explained the purpose of the outcome and the requirements of the end users 
+
+The student has chosen a specific context for the digital design outcome such as a website, game, app, film, etc. The student then clearly explains the purpose and end users. 
+
+  
+
+investigated relevant user experience methodologies 
+
+The student researches methods or examples of generating design ideas using a range of user experience methodologies that may include: user research, usability evaluation, information architecture, user interface design, interaction design,     visual design, content strategy, accessibility. 
+
+  
+
+applied user experience methodologies to generate a range of design ideas 
+
+The student selects and uses appropriate design conventions to generate two or more design ideas for the digital outcome. They have demonstrated the application of user experience methodologies. 
+
+  
+
+explained the appropriateness of the chosen design  
+
+The student provides a description of how the design is appropriate to the purpose and end user requirements, such as easy to read, navigate, meets accessibility standards.  
+
+  
+
+modelled and tested the design idea 
+
+The student shows evidence of trialling and testing design ideas. This may include: 
+
+evidence of discussions with teacher  
+
+trialling ideas with end-users such as going through procedures  
+
+checking users’ understanding 
+
+data gained from modelling and user testing. 
+
+  
+
+explained relevant implications 
+
+Implications explained may include: 
+
+aesthetics of the design 
+
+functionality 
+
+accessibility considerations 
+
+intellectual property 
+
 ### Sections
 
 - [ ] Stakeholder Questions 
