@@ -52,7 +52,7 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - [ ] Generation, bias and storage 
 
-- [ ] Project Management 
+### Project Management 
 
 - [ ] Waterfall- what is it with a diagram and the pros and cons 
 
