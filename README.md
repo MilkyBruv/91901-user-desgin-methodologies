@@ -157,4 +157,4 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - Waterfall
 
-	
+	A linear graph that visualizes the process structure. It shows what task follows after each other and does not allow much experiemntation of order. 
