@@ -153,8 +153,9 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 	A minimal working version of the see if the interaction between the user and the product. This makes it very easy to get useful and detailed and accurate feedback on the final app.
 
+
 ### Project Management
 
 - Waterfall
 
-	A linear graph that visualizes the process structure. It shows what task follows after each other and does not allow much experiemntation of order. 
+	A linear graph that visualizes the process structure. It shows what task follows after each other and does not allow much experiemntation of order.
