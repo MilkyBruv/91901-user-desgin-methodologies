@@ -158,6 +158,6 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - Waterfall
 
-	![waterfall graph example]("images/waterfall.png")
+	![waterfall graph example](images/waterfall.png)
 
 	A linear graph that visualizes the process structure. It shows what tasks follows after each other and does not allow any experiemntation of order. A typical waterfall graph entails a Requirements tab, a Design tab, an Implementatioon tab, a Verification tab, and a Maintenance tab. Each tab has a set of child tasks within, which all come together to form the parent tab. 
