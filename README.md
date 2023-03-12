@@ -149,4 +149,6 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 	A linear graph that visualizes the process structure. It shows what tasks follows after each other and does not allow any experimentation of order. A typical waterfall graph entails a Requirements tab, a Design tab, an Implementation tab, a Verification tab, and a Maintenance tab. Each tab has a set of child tasks within, which all come together to form the parent tab. The waterfall method is very useful for keeping a strict set of tasks in a specific order to make sure you have everything that needs to be done before another task completed. Though, if you wanted to make changes or alter the order of tasks on the go, you have to go back and change the entire structure of the child tasks and what parent tab they fall under and what is required before and after them. If you have a concrete idea of how the project will be carried out, then the waterfall method is very useful. But if you want a more dynamic approach to your project outline structure, this is not a very good way of going about it.
 
-- Scrum
+- Scrum 
+
+	sus
