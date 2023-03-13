@@ -1,4 +1,4 @@
-# 91901 User design Methodologies
+<h1> 91901 User design Methodologies </h1 style="text-align: center;">
 
 NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
@@ -151,4 +151,4 @@ NCEA L3 DTS 91901 User Design Methodologies Standard 2023
 
 - Scrum 
 
-	sus
+	Scrum boards entail a collection of cards put into sections. Each card has a task to be completed, and it's current status determines its colomn placement. Generally, scrum boards have 5 columns: Backlog, Story, To do, Doing,and Done. Simple scrumb boards ma
